@@ -43,7 +43,7 @@ class Application(StatesGroup):
 dp = Dispatcher(storage=MemoryStorage())
 
 
-TOKEN = '6913517994:AAGWhuodExACqgIMVlfd2xJn-DHG7FKyXuo'
+TOKEN = 'HG7yXuo'
 
 
 data = requests.get('https://www.cbr-xml-daily.ru/daily_json.js').json()
